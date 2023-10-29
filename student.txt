@@ -1,0 +1,9 @@
+o Student name: Andrei Luca Dinu
+o Student number: 694871
+o Student class: Retake
+o URL student GitHub website: https://lucadinu.github.io/finalRepository/
+o URL student GitHub repository: https://github.com/LucaDinu/finalRepository
+
+
+
+
